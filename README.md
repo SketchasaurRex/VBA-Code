@@ -1,14 +1,11 @@
 # VBA-Code
-## Overview of stocks comparison
+## Overview of Project
+### This project was designed to filter data on stocks by year to determine the Total Daily Volume and Return for a desired year organized by Ticker. In learning how to do this with nested for loops we noticed that the code run time seemed to take more time than we would like. This led to us refactoring our code to get faster results.
 
-stock-analysis with VBA
-Overview of Project
-This project was designed to filter data on stocks by year to determine the Total Daily Volume and Return for a desired year organized by Ticker. In learning how to do this with nested for loops we noticed that the code run time seemed to take more time than we would like. This led to us refactoring our code to get faster results.
-
-Results
+## Results
 
 
-This screenshot shows our initial run time when we first open Excel for the year 2018.
+### This screenshot shows our initial run time when we first open Excel for the year 2018.
 
 alt text alt text
 
