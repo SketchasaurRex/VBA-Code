@@ -4,18 +4,15 @@
 
 ## Results
 
-### This screenshot shows our initial run time when we first open Excel for the year 2018. This is a pretty high run time for a small ammount of code.
+### This screenshot shows our initial run time when we first open Excel for the years of 2017 and 2018. This is a pretty high run time for a small ammount of code.
 
-![alt text](http://url/to/img.png) ![alt text](http://url/to/img.png)
-
+![alt text](https://github.com/SketchasaurRex/VBA-Code/blob/main/Resources/VBA_Challenge_2017.PNG) ![alt text](https://github.com/SketchasaurRex/VBA-Code/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ### Lets compare this time with our refactored code, under 0.1 seconds, incredibly faster. We were able to get the run times consistently below 0.08 seconds. It may not seem like much, but we will give a very strong real life application in our summary on just how significant this is.
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SketchasaurRex/VBA-Code/blob/main/Resources/Refactor_2017.png) ![alt text](https://github.com/SketchasaurRex/VBA-Code/blob/main/Resources/Refactor_2018.png)
 
 ### What we did to make the code faster is refractor the code, having three independent loops running. The nested loops, while thorough, added to the run times in comparison.
-
 
 ## Summary
 
